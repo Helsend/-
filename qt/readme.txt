@@ -1,0 +1,1 @@
+使用qtdesigner 15.0.1
